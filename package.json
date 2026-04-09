@@ -9,6 +9,6 @@
     "docs:preview": "DEBUG=true vitepress preview web"
   },
   "dependencies": {
-    "rollup": "^4.24.0"
+    "rollup": "^4.60.1"
   }
 }
